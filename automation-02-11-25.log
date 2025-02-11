@@ -1,0 +1,55 @@
+16:44:49.579 [main] INFO  testCases.TC001_SearchTest - Validating the search item message after adding
+16:44:50.847 [main] INFO  testCases.TC003_RadioBtnTest - Validating the search item message after adding the list of items
+16:44:50.903 [main] INFO  testCases.TC003_RadioBtnTest - Deleting the search item
+16:44:50.939 [main] INFO  testCases.TC003_RadioBtnTest - Clicking all radio buttons
+16:44:50.984 [main] INFO  testCases.TC003_RadioBtnTest - Clicking Active radio buttons
+16:44:51.026 [main] INFO  testCases.TC003_RadioBtnTest - Clicking completed radio buttons
+16:44:51.060 [main] INFO  testCases.TC003_RadioBtnTest - Clicking clear completed radio buttons
+01:20:52.991 [main] INFO  testCases.TC001_SearchTest - Search Test
+01:20:53.090 [main] INFO  testCases.TC001_SearchTest - Validating the search item message
+01:20:53.104 [main] INFO  testCases.TC001_SearchTest - selecting radio button
+01:20:53.145 [main] INFO  testCases.TC001_SearchTest - Validating the message after selecting radio button
+01:20:53.155 [main] INFO  testCases.TC001_SearchTest - adding another search item
+01:20:53.188 [main] INFO  testCases.TC001_SearchTest - Validating the search item message after adding
+01:20:54.560 [main] INFO  testCases.TC003_RadioBtnTest - Validating the search item message after adding the list of items
+01:20:54.613 [main] INFO  testCases.TC003_RadioBtnTest - Deleting the search item
+01:20:54.646 [main] INFO  testCases.TC003_RadioBtnTest - Clicking all radio buttons
+01:20:54.703 [main] INFO  testCases.TC003_RadioBtnTest - Clicking Active radio buttons
+01:20:54.740 [main] INFO  testCases.TC003_RadioBtnTest - Clicking completed radio buttons
+01:20:54.778 [main] INFO  testCases.TC003_RadioBtnTest - Clicking clear completed radio buttons
+01:32:36.146 [main] INFO  testCases.TC001_SearchTest - Search Test
+01:32:36.282 [main] INFO  testCases.TC001_SearchTest - Validating the search item message
+01:32:36.297 [main] INFO  testCases.TC001_SearchTest - selecting radio button
+01:32:36.342 [main] INFO  testCases.TC001_SearchTest - Validating the message after selecting radio button
+01:32:36.351 [main] INFO  testCases.TC001_SearchTest - adding another search item
+01:32:36.387 [main] INFO  testCases.TC001_SearchTest - Validating the search item message after adding
+01:32:37.718 [main] INFO  testCases.TC003_RadioBtnTest - Validating the search item message after adding the list of items
+01:32:37.771 [main] INFO  testCases.TC003_RadioBtnTest - Deleting the search item
+01:32:37.809 [main] INFO  testCases.TC003_RadioBtnTest - Clicking all radio buttons
+01:32:37.856 [main] INFO  testCases.TC003_RadioBtnTest - Clicking Active radio buttons
+01:32:37.895 [main] INFO  testCases.TC003_RadioBtnTest - Clicking completed radio buttons
+01:32:37.928 [main] INFO  testCases.TC003_RadioBtnTest - Clicking clear completed radio buttons
+04:23:01.255 [main] INFO  testCases.TC001_SearchTest - Search Test
+04:23:01.401 [main] INFO  testCases.TC001_SearchTest - Validating the search item message
+04:23:01.418 [main] INFO  testCases.TC001_SearchTest - selecting radio button
+04:23:01.462 [main] INFO  testCases.TC001_SearchTest - Validating the message after selecting radio button
+04:23:01.471 [main] INFO  testCases.TC001_SearchTest - adding another search item
+04:23:01.507 [main] INFO  testCases.TC001_SearchTest - Validating the search item message after adding
+04:23:02.887 [main] INFO  testCases.TC003_RadioBtnTest - Validating the search item message after adding the list of items
+04:23:02.940 [main] INFO  testCases.TC003_RadioBtnTest - Deleting the search item
+04:23:02.976 [main] INFO  testCases.TC003_RadioBtnTest - Clicking all radio buttons
+04:23:03.032 [main] INFO  testCases.TC003_RadioBtnTest - Clicking Active radio buttons
+04:23:03.074 [main] INFO  testCases.TC003_RadioBtnTest - Clicking completed radio buttons
+04:23:03.111 [main] INFO  testCases.TC003_RadioBtnTest - Clicking clear completed radio buttons
+04:23:32.952 [main] INFO  testCases.TC001_SearchTest - Search Test
+04:23:33.041 [main] INFO  testCases.TC001_SearchTest - Validating the search item message
+04:23:33.055 [main] INFO  testCases.TC001_SearchTest - selecting radio button
+04:23:33.088 [main] INFO  testCases.TC001_SearchTest - Validating the message after selecting radio button
+04:23:33.097 [main] INFO  testCases.TC001_SearchTest - adding another search item
+04:23:33.139 [main] INFO  testCases.TC001_SearchTest - Validating the search item message after adding
+04:23:34.515 [main] INFO  testCases.TC003_RadioBtnTest - Validating the search item message after adding the list of items
+04:23:34.567 [main] INFO  testCases.TC003_RadioBtnTest - Deleting the search item
+04:23:34.605 [main] INFO  testCases.TC003_RadioBtnTest - Clicking all radio buttons
+04:23:34.652 [main] INFO  testCases.TC003_RadioBtnTest - Clicking Active radio buttons
+04:23:34.689 [main] INFO  testCases.TC003_RadioBtnTest - Clicking completed radio buttons
+04:23:34.723 [main] INFO  testCases.TC003_RadioBtnTest - Clicking clear completed radio buttons
